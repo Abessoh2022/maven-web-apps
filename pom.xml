@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.117.174.101:8081/repository/PNC-release/</url>
+	      <url>http://http://3.19.221.173:8081/repository/Bank-of-America-Release//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.117.174.101:8081/repository/PNC-snapshot/</url>
+	      <url>http://http://3.19.221.173:8081/repository/Bank-of-America-snapshot//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
